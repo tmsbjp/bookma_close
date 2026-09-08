@@ -1,0 +1,5 @@
+# X9 local artifacts (source and tracked assets remain in Git)
+/screenshots/
+/output/
+/.playwright-mcp/
+/.x9/
